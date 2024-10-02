@@ -6,15 +6,15 @@ Nei cieli bruciati e nei paesaggi devastati dalla guerra di un futuro non troppo
 
 Questa non è solo guerra. Questa è la guerra forgiata nel crogiolo della tecnologia e dell'ambizione umana. Sei pronto a guidare le tue armate verso la vittoria?
 
+## Panoramica del Gioco
+
+Warforged è un gioco da tavolo strategico basato su griglia per 2 o più giocatori. Ogni comandante (cioè voi) costruisce un esercito usando i Punti Guerra, schierando un mix di soldati umani, mech e robot da combattimento. Il vostro obiettivo? Superare in tattica, potenza di fuoco e resistenza i vostri avversari.
+
 ## Durata della Partita e Numero di Turni
 
 Una partita standard di Warforged dura tipicamente tra 30 e 90 minuti, a seconda del numero di giocatori e della loro familiarità con le regole. Il gioco si svolge in round, dove ogni giocatore completa il proprio turno prima di passare al successivo.
 
-Si consiglia di giocare per un numero prestabilito di round, tipicamente tra 8 e 12. Questo garantisce che la partita abbia una durata prevedibile e che ogni giocatore abbia un numero equo di turni. Al termine dei round prestabiliti, il giocatore con il maggior numero di punti vittoria (calcolati in base agli obiettivi raggiunti e alle unità nemiche distrutte) viene dichiarato vincitore.
-
-## Panoramica del Gioco
-
-Warforged è un gioco da tavolo strategico basato su griglia per 2 o più giocatori. Ogni comandante (cioè voi) costruisce un esercito usando i Punti Guerra, schierando un mix di soldati umani, mech e robot da combattimento. Il vostro obiettivo? Superare in tattica, potenza di fuoco e resistenza i vostri avversari.
+Si consiglia di giocare per un numero prestabilito di round, tipicamente tra 8 e 12. Questo garantisce che la partita abbia una durata prevedibile e che ogni giocatore abbia un numero equo di turni. 
 
 ## Componenti
 
@@ -22,7 +22,7 @@ Per combattere nel mondo di Warforged, avrete bisogno di:
 
 - Una mappa modulare a griglia esagonale o quadrata (il vostro campo di battaglia)
 - Carte Unità e Armi (il vostro arsenale)
-- Supporti per le carte. (qui posizionerete le carte unità e le relative armi)
+- ~~Supporti per le carte. (qui posizionerete le carte unità e le relative armi)~~
 - Segnalini e miniature (per rappresentare le unità sul campo e gli effetti ad esse applicati)
 - Dadi: D6 (a sei facce), D10 (a dieci facce) e D20 (a venti facce) per quando il destino interviene
 - Segnalini salute (la linfa vitale delle vostre unità)
@@ -208,5 +208,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMzcxMjI0XX0=
+eyJoaXN0b3J5IjpbLTE3MDA4MTUzOTAsNzYyMzcxMjI0XX0=
 -->
