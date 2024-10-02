@@ -76,7 +76,7 @@ Decidete un numero massimo di unità per ogni giocatore e i PG, potente basarvi 
 3. **Assegnazione**:
 Posiziona davanti a te tutte le tue carte unità e vicino ad ognuna le carte arma che vuoi assegnarle. Ora numerale con i segnalini da 1 al numero massimo di unità da sinistra a destra.
 5. **Schieramento**: 
-Posiziona le pedine con i numeri nella zona grigia, ogni numero si riferirà al gruppo di carte con il segnalino corrispondente.
+Posiziona le pedine con i numeri nella zona grigia, ogni numero si riferirà al gruppo di carte con il segnalino corrispondente. Con partite con più di 7 unità massime nei turni sucessivi devi posizionare le unità appena le caselle della base si liberano.
 
 ## Svolgimento del Gioco
 
@@ -153,7 +153,7 @@ Il limite di unità per giocatore viene stabilito all'inizio della partita e dip
 - Battaglia media: 6-8 unità per giocatore
 - Guerra su larga scala: 9-12 unità per giocatore
 
-Questo limite determina il numero massimo di unità che un giocatore può avere sul campo contemporaneamente. Se un'unità viene distrutta, può essere sostituita nella fase di rinforzo del turno successivo, sempre rispettando il limite stabilito e i Punti Guerra disponibili.
+Questo limite determina il numero massimo di unità che un giocatore può avere sul campo.
 
 ## Tabella dei Punti Guerra Iniziali
 
@@ -214,6 +214,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU0MTk4NTEsMTQ2ODM5NzM4NCw3Nj
-IzNzEyMjRdfQ==
+eyJoaXN0b3J5IjpbLTMxMjYyNTEzOCwxNDY4Mzk3Mzg0LDc2Mj
+M3MTIyNF19
 -->
