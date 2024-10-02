@@ -39,7 +39,7 @@ I Punti Guerra (PG) sono la valuta del conflitto. Ogni comandante inizia con una
 Ogni carta unità include:
 
 - **Costo**: I PG richiesti per aggiungere questa unità al tuo esercito.
-- **Velocità**: Quanto lontano l'unità può muoversi in una singola azione. (i movimenti possono essere anche compositi, ad esempio un unità di velocità 5 può muoversi di 3 unità a destra e 2 in alto)
+- **Velocità**: Quanto lontano l'unità può muoversi in una singola azione. (i movimenti possono essere anche compositi, ad esempio un unità di velocità 5 può muoversi di 3 unità a destra e 2 in alto, ma non attraverso caselle occupate da altre unità)
 - **Salute**: La quantità di danni che un'unità può sostenere prima di essere rimossa dal gioco.
 - **Armatura**: La difesa contro il fuoco in arrivo.
 - **Maneggevolezza**: La capacità dell'unità di brandire armi. (massimo 3 armi) 
@@ -208,5 +208,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA4MTUzOTAsNzYyMzcxMjI0XX0=
+eyJoaXN0b3J5IjpbMTcxOTgxMzQxNiw3NjIzNzEyMjRdfQ==
 -->
