@@ -123,7 +123,7 @@ Le vostre unità non sono solo piattaforme d'armi ambulanti. Spesso sono equipag
 
 - **Pesante( P )**: Questa unità può sopportare il peso di multiple armi principali o armi pesanti.
 - **Salto Potenziato( A )**: Supera in manovra i tuoi nemici, puoi saltare oltre unità e coperture. (quando attivata puoi eseguire un salto in linea retta pari alla velocità del unità, dopo aver usato questa abilità l'unità non può eseguire altre azioni per il resto del turno).
-- **Snello( P )**: Design evasivo al suo meglio. Tira un D6 quando attaccato; con un 1, l'attacco manca completamente. Inoltre puoi passare attraverso caselle occupate da altre unità.
+- **Snello( P )**: Design evasivo al suo meglio. Tira un D6 quando attaccato, con un 1 l'attacco manca completamente. Inoltre puoi passare attraverso caselle occupate da altre unità.
 - **Superschermo( A )**: Una volta attivata, questa abilità fornisce una schermatura energetica, quando vieni attaccato il danno viene ridotto a zero però c'è la possibilità che lo scudo si esaurisca dopo averti protetto quindi tira un D6, se il risultato è 5 o 6 lo scudo rimane attivo, con altri risultati lo scudo cede. Una volta ceduto, il generatore di scudi si brucia e non può essere riutilizzato.(applica un segnalino scudo quando attivi questa abilità, capovolgilo quando viene distrutto)
 - **Sovraccarico( P+A )**: Una mossa disperata. Autodistruzione, infliggendo 3 danni a tutte le unità entro un raggio di 2 caselle senza applicazione dell'armatura. Questa abilità si attiva anche se l'unità viene distrutta dal fuoco nemico.
 
@@ -211,6 +211,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTk3OTUzOSwxNDY4Mzk3Mzg0LDc2Mj
-M3MTIyNF19
+eyJoaXN0b3J5IjpbLTU3MDkyNTM3MiwtMzUxOTc5NTM5LDE0Nj
+gzOTczODQsNzYyMzcxMjI0XX0=
 -->
