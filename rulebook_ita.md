@@ -112,7 +112,7 @@ Quando decidete di attaccare:
 
 Il campo di battaglia è raramente un terreno di gioco livellato. Usa l'ambiente a tuo vantaggio:
 
-- **Copertura Leggera**: Se un unità si trova 
+- **Copertura Leggera**: Se tra un attaccante e un difensore si trova una copertura leggera, il difensore tira un dado in più per il controllo dell'armatura. Le unità si possono muovere attraverso questo 
 - **Copertura Pesante**: Blocca completamente la linea di vista. Solo abilità speciali o armi possono superare questo ostacolo. (le armi Laser possono penetrare questa copertura, ma viene applicato un bonus armatura di 2)
 
 ## Abilità Speciali
@@ -213,5 +213,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzIyOTQ5OSw3NjIzNzEyMjRdfQ==
+eyJoaXN0b3J5IjpbLTU5ODc5MzAyMyw3NjIzNzEyMjRdfQ==
 -->
