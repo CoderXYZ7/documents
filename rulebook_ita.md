@@ -189,11 +189,9 @@ Il giocatore B attacca con il Soldato d'Elite "Vanguard" con la Pistola Mitragli
 
 2. **Uso del terreno**: Sfrutta le coperture per proteggere le tue unità. Posiziona unità a lungo raggio su alture per massimizzare la loro efficacia.
 
-3. **Gestione dei Punti Guerra**: Non spendere tutti i tuoi PG all'inizio. Tieni una riserva per rinforzare o sostituire unità perse.
+3. **Sinergie tra unità**: Alcune unità lavorano meglio insieme. Ad esempio, usa i Bulwark per proteggere unità più fragili ma potenti come i Sentinel.
 
-4. **Sinergie tra unità**: Alcune unità lavorano meglio insieme. Ad esempio, usa i Bulwark per proteggere unità più fragili ma potenti come i Sentinel.
-
-5. **Obiettivi**: Concentrati sugli obiettivi della missione, non solo sull'eliminazione delle unità nemiche. Spesso, raggiungere gli obiettivi è più importante per la vittoria.
+4. **Obiettivi**: Concentrati sugli obiettivi della missione, non solo sull'eliminazione delle unità nemiche. Spesso, raggiungere gli obiettivi è più importante per la vittoria.
 
 ## Gestione delle Partite Multi-giocatore
 
@@ -201,7 +199,7 @@ Per partite con più di due giocatori:
 
 1. **Ordine di gioco**: Determinate casualmente l'ordine di gioco all'inizio della partita.
 
-2. **Alleanze**: Le alleanze temporanee sono permesse, ma non possono durare più di 2 round consecutivi.
+2. **Alleanze**: Le alleanze temporanee sono permesse.
 
 3. **Vittoria**: In partite multi-giocatore, si possono utilizzare punti vittoria. Assegnate punti per:
    - Unità nemiche distrutte
@@ -215,6 +213,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA4NDA4MywxNDY4Mzk3Mzg0LDc2Mj
+eyJoaXN0b3J5IjpbLTkyODIxNjk5OSwxNDY4Mzk3Mzg0LDc2Mj
 M3MTIyNF19
 -->
