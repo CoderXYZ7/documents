@@ -173,7 +173,8 @@ Il giocatore A muove il suo Cyborg "Nexus" di 3 caselle verso una copertura legg
 
 1. Tira un D10 per la precisione: ottiene un 6, che è un successo (inferiore alla precisione 7 del fucile).
 2. Il Drone Leggero tira un D6 per l'armatura: ottiene un 2, che è superiore alla sua armatura di 1, quindi non riduce il danno.
-3. Il Drone Leggero subisce 3 danni (il danno base dello Stormbreaker).
+3. Il Drone Leggero subisce 3 danni (il danno base del fucile).
+4. Il nexus è libero di eseguire un altro attacco perchè l'Assalto ha 
 
 ### Esempio 2: Uso di Abilità Speciali
 
@@ -214,6 +215,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyODc4MzAyLDE0NjgzOTczODQsNzYyMz
-cxMjI0XX0=
+eyJoaXN0b3J5IjpbLTg4NDQwMjE1NiwxNDY4Mzk3Mzg0LDc2Mj
+M3MTIyNF19
 -->
