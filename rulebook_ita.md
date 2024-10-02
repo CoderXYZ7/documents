@@ -86,7 +86,7 @@ I comandanti si alternano nei turni. Ogni turno, avete un numero stabilito di az
 
 ### Azioni
 
-1. **Muovere**: Spostare l'unità di una distanza, anche composita, pari o inferiore alla velocità.
+1. **Muovere**: Spostare l'unità di una distanza, anche composita, pari o inferiore alla velocità. Puoi muovere più volte la stessa unità
 2. **Attaccare**: Far piovere distruzione sui vostri nemici usando una delle armi equipaggiate all'unità. (In linea retta, su griglia quadrata si può attacare in 4 direzione mentre su griglia esagonale si può attaccare in 6)
 3. **Usare Abilità**: Attivare un'abilità speciale di un'unità o di un'arma per ottenere il sopravvento.
 
@@ -117,12 +117,12 @@ Il campo di battaglia è raramente un terreno di gioco livellato. Usa l'ambiente
 
 ## Abilità Speciali
 
-(Le abilità sono di tipo Passivo o Attivo, le attive vanno usate come azione mentre le passive si attivano automaticamente o offrono )
+(Le abilità sono di tipo Passivo o Attivo, le attive vanno usate come azione mentre le passive si attivano automaticamente o offrono un bonus continuo)
 
 Le vostre unità non sono solo piattaforme d'armi ambulanti. Spesso sono equipaggiate con abilità uniche che possono cambiare il corso della battaglia:
 
 - **Pesante( P )**: Questa unità può sopportare il peso di multiple armi principali o armi pesanti.
-- **Salto Potenziato( A )**: Salta oltre gli ostacoli e supera in manovra i tuoi nemici (quando attivata puoi eseguire un salto in linea retta pari alla velocità del unità, dopo aver usato questa abilità l'unità non può eseguire alre azioni per il resto del turno).
+- **Salto Potenziato( A )**: Salta oltre gli ostacoli e supera in manovra i tuoi nemici, puoi saltare oltre unità e coperture. (quando attivata puoi eseguire un salto in linea retta pari alla velocità del unità, dopo aver usato questa abilità l'unità non può eseguire altre azioni per il resto del turno).
 - **Snello( P )**: Design evasivo al suo meglio. Tira un D6 quando attaccato; con un 1, l'attacco manca completamente.
 - **Superschermo( A )**: Una volta attivata, questa abilità fornisce una schermatura energetica, quando vieni attaccato il danno viene ridotto a zero però c'è la possibilità che lo scudo si esaurisca dopo averti protetto quindi tira un D6, se il risultato è 5 o 6 lo scudo rimane attivo, con altri risultati lo scudo cede. Una volta ceduto, il generatore di scudi si brucia e non può essere riutilizzato.(applica un segnalino scudo quando attivi questa abilità, capovolgilo quando viene distrutto)
 - **Sovraccarico( P+A )**: Una mossa disperata. Autodistruzione, infliggendo 3 danni a tutte le unità entro un raggio di 2 caselle senza applicazione dell'armatura. Questa abilità si attiva anche se l'unità viene distrutta dal fuoco nemico.
@@ -213,5 +213,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg3NjkyMDAsNzYyMzcxMjI0XX0=
+eyJoaXN0b3J5IjpbMTgwMjQ0MTc0Miw3NjIzNzEyMjRdfQ==
 -->
