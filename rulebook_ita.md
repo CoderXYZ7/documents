@@ -52,7 +52,7 @@ Ogni carta unità include:
 I vostri strumenti di guerra sono divisi in tre classi:
 
 1. **Armi Principali**: Il vostro pane quotidiano. Danni elevati, ma la maggior parte delle unità può portarne solo una.
-2. **Armi Secondarie**: Potenza di fuoco più leggera, ma più versatile. Le unità possono portarne multiple in base alla loro maneggevolezza.
+2. **Armi Secondarie**: Potenza di fuoco ridotta, ma più versatile. Le unità possono portarne multiple in base alla loro maneggevolezza.
 3. **Armi Pesanti**: I grossi calibri. Solo le unità con il tratto "Pesante" possono brandirle.
 
 Ogni carta arma possiede le seguenti caratteristiche:
@@ -208,5 +208,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTgxMzQxNiw3NjIzNzEyMjRdfQ==
+eyJoaXN0b3J5IjpbOTM1NDQ4MTAwLDc2MjM3MTIyNF19
 -->
