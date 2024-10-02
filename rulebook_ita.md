@@ -141,6 +141,7 @@ Non tutte le armi sono create uguali. Alcune arrivano con effetti speciali che p
 
 La battaglia infuria finché non viene soddisfatta una di queste condizioni:
 
+- Raggiungimento del numero di turni prestabilito.
 - Annientamento Totale: Rimane un solo giocatore con unità attive.
 - Vittoria Strategica: Viene raggiunto un obiettivo predeterminato (ad esempio, mantenere posizioni chiave per un numero stabilito di turni, distruggere un bersaglio specifico o estrarre informazioni vitali).
 
@@ -213,5 +214,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODM5NzM4NCw3NjIzNzEyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjU0MTk4NTEsMTQ2ODM5NzM4NCw3Nj
+IzNzEyMjRdfQ==
 -->
