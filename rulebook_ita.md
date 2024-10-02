@@ -76,7 +76,7 @@ Decidete un numero massimo di unità per ogni giocatore e i PG, potente basarvi 
 3. **Assegnazione**:
 Posiziona davanti a te tutte le tue carte unità e vicino ad ognuna le carte arma che vuoi assegnarle. Ora numerale con i segnalini da 1 al numero massimo di unità da sinistra a destra.
 5. **Schieramento**: 
-Posiziona i segnalini con i numeri 
+Posiziona le pedine con i numeri nella zona grigia, ogni numero si riferirà al gruppo di carte con il segnalino corrispondente.
 
 ## Svolgimento del Gioco
 
@@ -213,5 +213,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2MzI5MzI5LDc2MjM3MTIyNF19
+eyJoaXN0b3J5IjpbMjAxODkzMTU0Myw3NjIzNzEyMjRdfQ==
 -->
