@@ -69,9 +69,10 @@ Ogni carta arma possiede le seguenti caratteristiche:
 
 ## Preparazione alla Battaglia
 
-1. **Scegliete il Vostro Campo di Battaglia**: Accordatevi su un layout della mappa o create una zona di guerra personalizzata.
-2. **Radunate le Vostre Forze**: Decidete un numero massimo di unità per ogni giocatore e i PG, potente basarvi sulla tabella a fine manuale. Usate i vostri PG per assemblare il vostro esercito ed equipaggiarlo per la guerra.
-3. **Schieramento**: Posizionate le vostre unità nelle zone di partenza designate. La strategia inizia prima che venga sparato il primo colpo.
+1. **Scegliete il Vostro Campo di Battaglia**: 
+Posizionate sul tavolo le tre pa
+3. **Radunate le Vostre Forze**: Decidete un numero massimo di unità per ogni giocatore e i PG, potente basarvi sulla tabella a fine manuale. Usate i vostri PG per assemblare il vostro esercito ed equipaggiarlo per la guerra.
+4. **Schieramento**: Posizionate le vostre unità nelle zone di partenza designate. La strategia inizia prima che venga sparato il primo colpo.
 
 ## Svolgimento del Gioco
 
@@ -208,5 +209,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1NDQ4MTAwLDc2MjM3MTIyNF19
+eyJoaXN0b3J5IjpbMTMwMzkyMjQ0NSw3NjIzNzEyMjRdfQ==
 -->
