@@ -74,9 +74,9 @@ Posiziona sul tavolo le tre parti principali della mappa, le due con gli esagoni
 2. **Radunate le Vostre Forze**: 
 Decidete un numero massimo di unità per ogni giocatore e i PG, potente basarvi sulla tabella a fine manuale. Alternatevi ad aquistare una carta a testa (unità o arma), ricordando che c'è un numero limitato di esemplari della stessa unità. In ogni momento puoi decidere di fermarti, questo se preferisci avere un numero inferiore di unità o hai finito i PG.
 3. **Assegnazione**:
-Posiziona davanti a te tutte le tue carte unità e vicino ad ognuna le carte arma che vuoi assegnarle. Il gruppo di care
+Posiziona davanti a te tutte le tue carte unità e vicino ad ognuna le carte arma che vuoi assegnarle. Ora numerale con i segnalini da 1 al numero massimo di unità da sinistra a destra.
 5. **Schieramento**: 
-Posiziona le tue 
+Posiziona i segnalini con i numeri 
 
 ## Svolgimento del Gioco
 
@@ -213,5 +213,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTcxMDMxNSw3NjIzNzEyMjRdfQ==
+eyJoaXN0b3J5IjpbMzY2MzI5MzI5LDc2MjM3MTIyNF19
 -->
