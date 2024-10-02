@@ -180,8 +180,8 @@ Il giocatore A muove il suo Cyborg "Nexus" di 3 caselle verso una copertura legg
 
 Il giocatore B attacca con il Soldato d'Elite "Vanguard" con la Pistola Mitragliatrice, poi usa l'abilità Salto Potenziato per saltare oltre un muro e ritirarsi in copertura. 
 
-1. Il Salto Potenziato permette al Vanguard di muoversi di 2 caselle in linea retta, ignorando gli ostacoli.
-2.  L'attacco con la Tempest segue le normali regole di combattimento.
+1. Il Salto Potenziato permette al Vanguard di muoversi di 4 caselle in linea retta, ignorando gli ostacoli.
+2.  L'attacco con la Pistola segue le normali regole di combattimento.
 
 ## Strategie di Base e Consigli per Nuovi Giocatori
 
@@ -215,6 +215,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NDQxNzY3LDE0NjgzOTczODQsNzYyMz
-cxMjI0XX0=
+eyJoaXN0b3J5IjpbLTExODA4NDA4MywxNDY4Mzk3Mzg0LDc2Mj
+M3MTIyNF19
 -->
