@@ -169,9 +169,9 @@ Utilizzate la seguente tabella per determinare i Punti Guerra (PG) iniziali in b
 
 ### Esempio 1: Movimento e Attacco
 
-Il giocatore A muove il suo Cyborg "Nexus" di 3 caselle verso una copertura leggera. Poi usa la sua seconda azione per attaccare un Drone Leggero "Whisper" nemico con il suo Fucile d'Assalto "Stormbreaker".
+Il giocatore A muove il suo Cyborg "Nexus" di 3 caselle verso una copertura leggera. Poi usa la sua seconda azione per attaccare un Drone Leggero "Whisper" nemico con il suo Fucile d'Assalto.
 
-1. Tira un D10 per la precisione: ottiene un 6, che è un successo (inferiore alla precisione 7 dello Stormbreaker).
+1. Tira un D10 per la precisione: ottiene un 6, che è un successo (inferiore alla precisione 7 del fucile).
 2. Il Drone Leggero tira un D6 per l'armatura: ottiene un 2, che è superiore alla sua armatura di 1, quindi non riduce il danno.
 3. Il Drone Leggero subisce 3 danni (il danno base dello Stormbreaker).
 
@@ -214,6 +214,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjYyNTEzOCwxNDY4Mzk3Mzg0LDc2Mj
+eyJoaXN0b3J5IjpbLTEzMDg1MTQwOSwxNDY4Mzk3Mzg0LDc2Mj
 M3MTIyNF19
 -->
