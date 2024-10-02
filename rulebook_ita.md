@@ -117,25 +117,25 @@ Il campo di battaglia è raramente un terreno di gioco livellato. Usa l'ambiente
 
 ## Abilità Speciali
 
-(Le abilità sono di tipo Passivo o Attivo, le attive vanno usate come azione mentre le passive no)
+(Le abilità sono di tipo Passivo o Attivo, le attive vanno usate come azione mentre le passive si attivano automaticamente o offrono )
 
 Le vostre unità non sono solo piattaforme d'armi ambulanti. Spesso sono equipaggiate con abilità uniche che possono cambiare il corso della battaglia:
 
-- **Pesante(P)**: Questa unità può sopportare il peso di multiple armi principali o armi pesanti.
-- **Salto Potenziato(A)**: Salta oltre gli ostacoli e supera in manovra i tuoi nemici (quando attivata puoi eseguire un salto in linea retta pari alla velocità del unità, dopo aver usato questa abilità l'unità non può eseguire alre azioni per il resto del turno).
-- **Snello(P)**: Design evasivo al suo meglio. Tira un D6 quando attaccato; con un 1, l'attacco manca completamente.
-- **Superschermo(A)**: Una volta attivata, questa abilità fornisce una schermatura energetica, quando vieni attaccato il danno viene ridotto a zero però c'è la possibilità che lo scudo si esaurisca dopo averti protetto quindi tira un D6, se il risultato è 5 o 6 lo scudo rimane attivo, con altri risultati lo scudo cede. Una volta ceduto, il generatore di scudi si brucia e non può essere riutilizzato.(applica un segnalino scudo quando attivi questa abilità, capovolgilo quando viene distrutto)
-- **Sovraccarico(P+A)**: Una mossa disperata. Autodistruzione, infliggendo 3 danni a tutte le unità entro un raggio di 2 caselle senza applicazione dell'armatura. Questa abilità si attiva anche se l'unità viene distrutta dal fuoco nemico.
+- **Pesante( P )**: Questa unità può sopportare il peso di multiple armi principali o armi pesanti.
+- **Salto Potenziato( A )**: Salta oltre gli ostacoli e supera in manovra i tuoi nemici (quando attivata puoi eseguire un salto in linea retta pari alla velocità del unità, dopo aver usato questa abilità l'unità non può eseguire alre azioni per il resto del turno).
+- **Snello( P )**: Design evasivo al suo meglio. Tira un D6 quando attaccato; con un 1, l'attacco manca completamente.
+- **Superschermo( A )**: Una volta attivata, questa abilità fornisce una schermatura energetica, quando vieni attaccato il danno viene ridotto a zero però c'è la possibilità che lo scudo si esaurisca dopo averti protetto quindi tira un D6, se il risultato è 5 o 6 lo scudo rimane attivo, con altri risultati lo scudo cede. Una volta ceduto, il generatore di scudi si brucia e non può essere riutilizzato.(applica un segnalino scudo quando attivi questa abilità, capovolgilo quando viene distrutto)
+- **Sovraccarico( P+A )**: Una mossa disperata. Autodistruzione, infliggendo 3 danni a tutte le unità entro un raggio di 2 caselle senza applicazione dell'armatura. Questa abilità si attiva anche se l'unità viene distrutta dal fuoco nemico.
 
 ## Effetti delle Armi
 
 Non tutte le armi sono create uguali. Alcune arrivano con effetti speciali che possono ribaltare le sorti della battaglia:
 
-- **Perforante(P)**: Taglia l'armatura come se non ci fosse. Ignora il tiro di armatura del bersaglio.
-- **Alta Esplosività(P)**: Negazione dell'area al suo meglio. Con un colpo a segno, infligge 1 danno a tutte le unità entro un raggio di 1 casella dal bersaglio principale. Questo danno da esplosione ignora l'armatura per le unità vicine, ma il bersaglio primario ottiene comunque il suo controllo di armatura.
-- **Tiro Rapido(P)**: Potenza di fuoco travolgente. Effettua due attacchi con una singola azione. (puoi attacare due unità diverse ma non puoi eseguire altre azioni in mezzo)
-- **EMP(P)**: Spegne i sistemi nemici. Con un colpo a segno, l'unità bersaglio è disabilitata per il suo prossimo turno. (applica un segnalino EMP)
-- **Laser(P)**: Precisione e potenza combinate. Può penetrare le coperture senza svantaggi. Con un colpo a segno, tirate un D6. Se il risultato è 3 o inferiore, riducete l'armatura del bersaglio di quella quantità per i prossimi 2 attacchi contro di esso. (applica tanti segnalini Bruciato quanti sono i punti armatura rimossi)
+- **Perforante( P )**: Taglia l'armatura come se non ci fosse. Ignora il tiro di armatura del bersaglio.
+- **Alta Esplosività( P )**: Negazione dell'area al suo meglio. Con un colpo a segno, infligge 1 danno a tutte le unità entro un raggio di 1 casella dal bersaglio principale. Questo danno da esplosione ignora l'armatura per le unità vicine, ma il bersaglio primario ottiene comunque il suo controllo di armatura.
+- **Tiro Rapido( P )**: Potenza di fuoco travolgente. Effettua due attacchi con una singola azione. (puoi attacare due unità diverse ma non puoi eseguire altre azioni in mezzo)
+- **EMP( P )**: Spegne i sistemi nemici. Con un colpo a segno, l'unità bersaglio è disabilitata per il suo prossimo turno. (applica un segnalino EMP)
+- **Laser( P )**: Precisione e potenza combinate. Può penetrare le coperture senza svantaggi. Con un colpo a segno, tirate un D6. Se il risultato è 3 o inferiore, riducete l'armatura del bersaglio di quella quantità per i prossimi 2 attacchi contro di esso. (applica tanti segnalini Bruciato quanti sono i punti armatura rimossi)
 
 ## Vittoria e Sconfitta
 
@@ -213,5 +213,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mzk2MzIwOCw3NjIzNzEyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzg3NjkyMDAsNzYyMzcxMjI0XX0=
 -->
