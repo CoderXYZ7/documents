@@ -112,8 +112,8 @@ Quando decidete di attaccare:
 
 Il campo di battaglia è raramente un terreno di gioco livellato. Usa l'ambiente a tuo vantaggio:
 
-- **Copertura Leggera**: Se tra un attaccante e un difensore si trova una copertura leggera, il difensore tira un dado in più per il controllo dell'armatura. Le unità si possono muovere attraverso questo 
-- **Copertura Pesante**: Blocca completamente la linea di vista. Solo abilità speciali o armi possono superare questo ostacolo. (le armi Laser possono penetrare questa copertura, ma viene applicato un bonus armatura di 2)
+- **Copertura Leggera**: Se tra un attaccante e un difensore si trova una copertura leggera, il difensore tira un dado in più per il controllo dell'armatura. Le unità si possono muovere attraverso questo ostacolo ma non ci si possono fermare sopra.
+- **Copertura Pesante**: Blocca completamente la linea di vista. Solo abilità speciali o armi possono superare questo ostacolo.
 
 ## Abilità Speciali
 
@@ -135,7 +135,7 @@ Non tutte le armi sono create uguali. Alcune arrivano con effetti speciali che p
 - **Alta Esplosività(P)**: Negazione dell'area al suo meglio. Con un colpo a segno, infligge 1 danno a tutte le unità entro un raggio di 1 casella dal bersaglio principale. Questo danno da esplosione ignora l'armatura per le unità vicine, ma il bersaglio primario ottiene comunque il suo controllo di armatura.
 - **Tiro Rapido(P)**: Potenza di fuoco travolgente. Effettua due attacchi con una singola azione. (puoi attacare due unità diverse ma non puoi eseguire altre azioni in mezzo)
 - **EMP(P)**: Spegne i sistemi nemici. Con un colpo a segno, l'unità bersaglio è disabilitata per il suo prossimo turno. (applica un segnalino EMP)
-- **Laser(P)**: Precisione e potenza combinate. Può penetrare la copertura pesante. Con un colpo a segno, tirate un D6. Se il risultato è 3 o inferiore, riducete l'armatura del bersaglio di quella quantità per i prossimi 2 attacchi contro di esso. (applica tanti segnalini Bruciato quanti sono i punti armatura rimossi)
+- **Laser(P)**: Precisione e potenza combinate. Può penetrare le coperture senza svantaggi. Con un colpo a segno, tirate un D6. Se il risultato è 3 o inferiore, riducete l'armatura del bersaglio di quella quantità per i prossimi 2 attacchi contro di esso. (applica tanti segnalini Bruciato quanti sono i punti armatura rimossi)
 
 ## Vittoria e Sconfitta
 
@@ -213,5 +213,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODc5MzAyMyw3NjIzNzEyMjRdfQ==
+eyJoaXN0b3J5IjpbMTI4Mzk2MzIwOCw3NjIzNzEyMjRdfQ==
 -->
