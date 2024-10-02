@@ -208,11 +208,9 @@ Per partite con più di due giocatori:
 
 4. **Eliminazione**: Un giocatore viene eliminato quando tutte le sue unità sono distrutte. Le sue strutture e obiettivi diventano neutrali.
 
-5. **Bilanciamento**: Se un giocatore sembra dominare, gli altri possono temporaneamente allearsi contro di lui per bilanciare il gioco.
-
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODIxNjk5OSwxNDY4Mzk3Mzg0LDc2Mj
+eyJoaXN0b3J5IjpbLTM1MTk3OTUzOSwxNDY4Mzk3Mzg0LDc2Mj
 M3MTIyNF19
 -->
