@@ -100,8 +100,8 @@ Quando decidete di attaccare:
    - Se corrisponde esattamente alla precisione, è un colpo critico - devastante e in grado di perforare l'armatura.
 2. **Risoluzione dei Danni**:
    - Per un colpo standard: 
-     - Il difensore tira tanti D6 quanti sono i suoi punti armatura.
-     - Per ogni dado che mostra 3, 4 o 5, riduci il danno di uno, il danno minimo è sempre 1.
+     - Il difensore tira tante volte un D6 quanti sono i suoi punti armatura.
+     - Per ogni tiro che mostra 3, 4 o 5, riduci il danno di uno, il danno minimo è sempre 1.
    - Per un colpo critico: 
      - Applica i danni completi dell'arma. L'armatura non ha alcuna possibilità.
 3. **Conseguenze**:
@@ -213,5 +213,5 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQxNjA4OTUsNzYyMzcxMjI0XX0=
+eyJoaXN0b3J5IjpbLTEwMDQ2NTU3MDQsNzYyMzcxMjI0XX0=
 -->
