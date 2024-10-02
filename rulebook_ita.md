@@ -174,11 +174,11 @@ Il giocatore A muove il suo Cyborg "Nexus" di 3 caselle verso una copertura legg
 1. Tira un D10 per la precisione: ottiene un 6, che è un successo (inferiore alla precisione 7 del fucile).
 2. Il Drone Leggero tira un D6 per l'armatura: ottiene un 2, che è superiore alla sua armatura di 1, quindi non riduce il danno.
 3. Il Drone Leggero subisce 3 danni (il danno base del fucile).
-4. Il nexus è libero di eseguire un altro attacco perchè l'Assalto ha 
+4. Il Nexus è libero di eseguire un altro attacco perchè l'Assalto ha l'effetto tiro rapido.
 
 ### Esempio 2: Uso di Abilità Speciali
 
-Il giocatore B attiva l'abilità Salto Potenziato del suo Soldato d'Elite "Vanguard" per saltare oltre un muro alto e atterrare vicino a un'unità nemica. Usa poi la sua seconda azione per attaccare con la Pistola Mitragliatrice "Tempest".
+Il giocatore B attacca con il Soldato d'Elite "Vanguard"  e poi usa l'abilità Salto Potenziato per saltare oltre un muro alto e atterrare vicino a un'unità nemica. Usa poi la sua seconda azione per attaccare con la Pistola Mitragliatrice "Tempest".
 
 1. L'attacco con la Tempest segue le normali regole di combattimento.
 2. Il Salto Potenziato permette al Vanguard di muoversi di 2 caselle in linea retta, ignorando gli ostacoli.
@@ -215,6 +215,6 @@ Per partite con più di due giocatori:
 Ricordate, l'obiettivo principale è divertirsi! Non esitate a modificare queste regole per adattarle al vostro gruppo di gioco.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDQwMjE1NiwxNDY4Mzk3Mzg0LDc2Mj
+eyJoaXN0b3J5IjpbLTI0NTIwNjQwNCwxNDY4Mzk3Mzg0LDc2Mj
 M3MTIyNF19
 -->
