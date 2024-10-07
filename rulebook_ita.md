@@ -119,7 +119,7 @@ I comandanti  si  alternano  nei  turni. Ogni  turno, avete un numero  stabilito
 
 1. **Muovere**: Spostare  l'unità di una  distanza, anche composita, pari o inferiore  alla  velocità. Non puoi  muovere  più di due volte la stessa  unità in un turno.
 
-2. **Attaccare**: Far piovere distruzione sui vostri nemici usando una delle armi equipaggiate all'unità. (In linea retta, su griglia quadrata si può attaccare in 4 direzione mentre su griglia esagonale si può attaccare in 6)
+2. **Attaccare**: Far piovere distruzione sui vostri nemici usando una delle armi equipaggiate all'unità. Ogni unità, in un turno, può attaccare una volta per ogni arma assegnata. (In linea retta, su griglia quadrata si può attaccare in 4 direzione mentre su griglia esagonale si può attaccare in 6)
 
 3. **Usare  Abilità**: Attivare  un'abilità  speciale di un'unità o di un'arma per ottenere il sopravvento.
 
@@ -275,6 +275,7 @@ Per partite con più di due giocatori:
 
 Ricordate, l'obiettivo  principale è divertirsi! Non esitate a modificare  queste  regole per adattarle al vostro gruppo di gioco.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY0OTAxNDQsLTU3MDkyNTM3MiwtMz
-UxOTc5NTM5LDE0NjgzOTczODQsNzYyMzcxMjI0XX0=
+eyJoaXN0b3J5IjpbNTcyNjc5NCwtMTgzNjQ5MDE0NCwtNTcwOT
+I1MzcyLC0zNTE5Nzk1MzksMTQ2ODM5NzM4NCw3NjIzNzEyMjRd
+fQ==
 -->
