@@ -2,6 +2,12 @@
 
 ---
 
+
+- 1 Antonio
+- 2 Sami
+- 3 Daniele
+- 4 Manuel
+
 ### **1. Origins and Evolution of Steam Engines**
    - **Ancient Beginnings**:
       - Early concept: **Hero’s Aeolipile** (1st century AD) – a primitive steam-powered device.
@@ -93,5 +99,5 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NTQ3MjQ5XX0=
+eyJoaXN0b3J5IjpbMTQzNDA3OTc3MSw1MDU1NDcyNDldfQ==
 -->
