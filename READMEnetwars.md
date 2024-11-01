@@ -59,6 +59,10 @@ Those include but are not limited to:
 - F.I.S.H.
 
 In his turn the player will have to chose between trowing a fish and fishing a fish.
+
+# Interface
+The interface will be divided in tree pages, a login page, a game selection page and a game page.
+The login page is a simple page where one can register (simply inserting a username and password that will be added to the datab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk3Mjk2NzRdfQ==
+eyJoaXN0b3J5IjpbMjEyNzcyNDAxOCwtMTgwOTcyOTY3NF19
 -->
