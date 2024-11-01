@@ -15,6 +15,7 @@ NETWars is a strategy game inspired by battleship, a game based on luck and patt
 - CSS
 - PHP
 - Python
+- 
 ## How it will work on the technical side of things
 
 | Name | Docker | Scope | Techs |
@@ -68,6 +69,6 @@ Than we have the game interface, with simply a zone where the player has his shi
 The game is divided in 2 parts, preparation and warfare, the preparation part is simply a time where the two players place their ships on their zone, and that, when both have pressed pass, the warfare starts, one player gets chosen at random to start and he launches a fish at the enemy or passes, that is the turn of the other player.
 The game ends when one player has no more ships.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYzNTExMjEsLTE4MDk3Mjk2NzRdfQ
-==
+eyJoaXN0b3J5IjpbNjM5Mzc2NTU0LC0xMDk2MzUxMTIxLC0xOD
+A5NzI5Njc0XX0=
 -->
