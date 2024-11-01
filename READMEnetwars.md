@@ -63,7 +63,8 @@ In his turn the player will have to chose between trowing a fish and fishing a f
 # Interface
 The interface will be divided in tree pages, a login page, a game selection page and a game page.
 The login page is a simple page where one can register (simply inserting a username and password that will be added to the database trough the backend) or login with his credentials.
-The game selection page is a page where the player can create a new match, defining simply a name for the match (and optionally a password), than the page will show all the games in a column, with 3 buttons, enter as player 1, enter as player 2 and spectate. When a player enters as player 1 or 2 the button will be grayed-out 
+The game selection page is a page where the player can create a new match, defining simply a name for the match (and optionally a password), than the page will show all the games in a column, with 3 buttons, enter as player 1, enter as player 2 and spectate. When a player enters as player 1 or 2 the button will be grayed-out, to enter will be necessary the password, if the game has one.
+Than we have the game interface, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTUyMDczNiwtMTgwOTcyOTY3NF19
+eyJoaXN0b3J5IjpbNzA0ODQzOTU2LC0xODA5NzI5Njc0XX0=
 -->
