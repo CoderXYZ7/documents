@@ -64,7 +64,8 @@ In his turn the player will have to chose between trowing a fish and fishing a f
 The interface will be divided in tree pages, a login page, a game selection page and a game page.
 The login page is a simple page where one can register (simply inserting a username and password that will be added to the database trough the backend) or login with his credentials.
 The game selection page is a page where the player can create a new match, defining simply a name for the match (and optionally a password), than the page will show all the games in a column, with 3 buttons, enter as player 1, enter as player 2 and spectate. When a player enters as player 1 or 2 the button will be grayed-out, to enter will be necessary the password, if the game has one.
-Than we have the game interface, with simply a zone where the player has his ships, a zone where the enemy has his ships and a list of fishes, 
+Than we have the game interface, with simply a zone where the player has his ships, a zone where the enemy has his ships and a list of fishes, that the player can use as ammo in a system first-it first-out, and a button to pass, when a player passes, a random fish gets added to the query of the fishes.
+The game is divided in 2 parts, preparation and warfare, the pre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzMxOTI0NiwtMTgwOTcyOTY3NF19
+eyJoaXN0b3J5IjpbMjA4NTcyNDY4NSwtMTgwOTcyOTY3NF19
 -->
