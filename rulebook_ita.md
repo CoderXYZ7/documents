@@ -275,7 +275,5 @@ Per partite con più di due giocatori:
 
 Ricordate, l'obiettivo  principale è divertirsi! Non esitate a modificare  queste  regole per adattarle al vostro gruppo di gioco.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNjc5NCwtMTgzNjQ5MDE0NCwtNTcwOT
-I1MzcyLC0zNTE5Nzk1MzksMTQ2ODM5NzM4NCw3NjIzNzEyMjRd
-fQ==
+eyJoaXN0b3J5IjpbNTcyNjc5NF19
 -->
