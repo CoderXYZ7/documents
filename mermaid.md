@@ -1,4 +1,5 @@
-'''
+# hi
+``` mermaid
 flowchart TD
     subgraph Server["Server Remoto"]
         P[Gestione Pagamenti]
@@ -27,4 +28,4 @@ flowchart TD
     C -->|Token non valido| Pm
     A --> Pm
     A --> Pro
-'''
+```
