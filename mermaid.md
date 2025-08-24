@@ -4,7 +4,7 @@ flowchart TD
     subgraph Server["Server Remoto"]
         P[Gestione Pagamenti]
         U[Gestione Utenti]
-        L[Generazione Licenze (JWT)]
+        L[Generazione Licenze JWT]
         P --> L
         U --> L
     end
